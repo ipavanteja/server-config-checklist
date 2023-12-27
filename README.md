@@ -2,9 +2,9 @@
 
 <table align="center">
 	<tr><th align="center"> S.No</th><th align="center">Server Configuration Checklist</th></tr>
-	<tr><td align="center"> 1</td><td align="center">Connect to AWS Instance</td></tr>
+	<tr><td align="center"> 1</td><td align="center">Connect to Instance</td></tr>
 	<tr><td align="center"> 2</td><td align="center">CPU & Operating System Info </td></tr>
-	<tr><td align="center"> 3</td><td align="center">Install Speedtest tool and check Internet Speed in AWS Server</td></tr>
+	<tr><td align="center"> 3</td><td align="center">Install Speedtest tool and check Internet Speed in Server</td></tr>
 	<tr><td align="center"> 4</td><td align="center">Visual Studio Code (Remote-SSH) Plugin</td></tr>
 	<tr><td align="center"> 5</td><td align="center">Set Root Password </td></tr>
 	<tr><td align="center"> 6</td><td align="center">System Update & Upgrade (apt update && apt upgrade) - as root </td></tr>
@@ -15,13 +15,13 @@
 	<tr><td align="center"> 11</td><td align="center">Network Adapter Info (Static IP, Local IP and MAC Address) </td></tr>
 	<tr><td align="center"> 12</td><td align="center">GitHub SSH Key Setup</td></tr>
 	<tr><td align="center"> 13</td><td align="center">GitHub GPG Keys Setup </td></tr>
-	<tr><td align="center"> 14</td><td align="center">Login as root in AWS Server - Ubuntu Linux </td></tr>
+	<tr><td align="center"> 14</td><td align="center">Login as root in Server - Ubuntu Linux </td></tr>
 	<tr><td align="center"> 15</td><td align="center">Install Certbot and Generate SSL Certificate</td></tr>
 	<tr><td align="center"> 15</td><td align="center">PM2 (Process Manager 2)</td></tr>
 </table>
 
 
-### 1. How to Connect to AWS Instance 
+### 1. How to Connect to Instance 
 
 - Make sure you have the server's private key file: cs22-yourname.txt.
   
