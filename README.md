@@ -17,7 +17,7 @@
 	<tr><td align="center"> 13</td><td align="center">GitHub GPG Keys Setup </td></tr>
 	<tr><td align="center"> 14</td><td align="center">Login as root in Server - Ubuntu Linux </td></tr>
 	<tr><td align="center"> 15</td><td align="center">Install Certbot and Generate SSL Certificate</td></tr>
-	<tr><td align="center"> 15</td><td align="center">PM2 (Process Manager 2)</td></tr>
+	<tr><td align="center"> 16</td><td align="center">PM2 (Process Manager 2)</td></tr>
 </table>
 
 
